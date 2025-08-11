@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+requests==2.31.0
+cryptography==41.0.7
+cohere==5.3.5
